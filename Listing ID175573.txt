@@ -1,0 +1,80 @@
+Property Description:
+This is a wonderful home in a great neighborhood! A 4 bed 3 bath house that features all stainless appliances and an island. Boasting a 2 car finished garage with A/C and heat. Also a sprinkler system and nice vinyl fence.
+Primary Features
+
+County: Ellis
+
+Price/SqFt: 93.71
+Property Sub Type: Ranch
+Property Type: Residential
+Year Built: 2006
+
+Interior
+Air Conditioning: Central Electric
+Appliances: Dishwasher, Disposal, Hood, Microwave, Range/Oven, Refrigerator
+
+Bath 1 Dimensions: 5.00 x 10.00
+Bath 1 Level: 1
+Bath 2 Dimensions: 5.00 x 6.00
+Bath 2 Level: 1
+Bath 3 Dimensions: 4.00 x 9.00
+Bath 3 Level: Basement
+Bed 2 Level: 1
+Bed 3 Level: 1
+Bed 4 Level: Basement
+Dining: Dining/Kitchen Combo
+Dining Level: 1
+Dining Room Dimensions: 10.00 x 10.00
+Family Room Dimensions: 16.00 x 25.00
+Family Room Level: Basement
+Fireplace: Gas Logs
+Heating System: Forced Air-Gas
+Interior Features: Basement, Master Bath
+Kitchen Dimensions: 13.00 x 13.00
+Kitchen Level: 1
+Laundry Dimensions: 6.00 x 6.00
+Laundry Level: Basement
+Living Level: 1
+Master Bed Level: 1
+Number of Baths - Basement: 1
+Number of Bedrooms - Basement: 1
+Number of Bedrooms - Level 1: 3
+Number of Rooms: 9
+Other Room Description: 7 x 8-Storage-Basement
+Other Room Level: Basement
+Other Room Name: 13 x 15-Office-Basement
+Total Finished Area: 2828
+
+Additional
+Agreement Type: Trans. Broker
+Bed 2 Dimensions: 10.00 x 11.00
+Bed 3 Dimensions: 10.00 x 11.00
+Bed 4 Dimensions: 14.00 x 14.50
+Living Room Dimensions: 16.00 x 19.00
+Master Bed Dimensions: 13.00 x 16.00
+Termite Info: Pre-Treated
+
+Location
+Area: Northeast
+Longitude: -99.30925
+Latitude: 38.890642
+
+External
+Basement/Foundation: Full, Poured Concrete
+Carport: None
+Construction: Wood Frame
+Exterior Features: Covered Front Porch, Other, Patio, Privacy Fence
+Exterior Finish: Fiber-Cement Siding
+Garage: Two Car
+Lot Dimensions: 72.00 x 100.00
+Roof: Composition
+Sewer: City Sewer
+Utilities: Cable, Electricity, Gas, Public Water, Sewer, Telephone
+Water: City Water
+
+Financial
+G - Tax: 3363.96
+Lease Type: Net
+Pay Out: 2144
+Possession: Tenant Rights
+Transaction Type: For Sale
