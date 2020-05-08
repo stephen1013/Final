@@ -14,18 +14,12 @@ body{
          max-width:2048px;
          box-shadow:3px 30px 30px 3px #828282;
         }
-header {
-	    background-color:#ffffff;
-      color:#000000;
-			background-repeat:no-repeat;
-	/*		text-align:center; */
-       }
 #logo {
 
 		background-position:left-side;
 		padding-top:60px;
 		height:150px;
-
+		align:left;
 }
 nav{
 	background-color:#ffffff;
